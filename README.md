@@ -2,7 +2,7 @@
 
 ## Project Overview
 Interactive Tableau dashboard analyzing Netflix movies and TV shows to uncover trends in content type, ratings, genres, and release patterns.
-<img width="2099" height="1349" alt="Netflix Dashboard (1)" src="https://github.com/user-attachments/assets/f4fe186e-7c31-4aba-91c9-0b7841749932" />
+
 
 ## Tools Used
 - Tableau Public
